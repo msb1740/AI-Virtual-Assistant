@@ -6,13 +6,13 @@
 # AssemblyAi perform real time transcript.
 
 1. Create AssemblyAI account
-https://www.assemblyai.com/ (paid without paid subscription not working)
+https://www.assemblyai.com/ (paid subscription, Free subscription not working)
 
 2. Create OpenAI account
 https://platform.openai.com/ (Paid subscription)
 
 3. Create  elevenLabs account
-https://elevenlabs.io(paid subscription)
+https://elevenlabs.io (paid subscription)
 
 
 ##### Step 1: Install Python libraries ######

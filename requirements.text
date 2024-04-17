@@ -1,0 +1,9 @@
+##### Step 1: Install Python libraries ######
+
+install brew on mac
+(https://mac.install.guide/homebrew/3)
+
+brew install portaudio
+pip install "assemblyai[extras]"
+pip install elevenlabs==0.3.0b0
+pip install --upgrade openai
